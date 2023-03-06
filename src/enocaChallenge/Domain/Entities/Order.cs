@@ -11,7 +11,7 @@ namespace Domain.Entities
     {
 
         public int CompanyId { get; set; }
-        public int CategoryId { get; set; }
+        public int ProductId { get; set; }
         public string CustomerName { get; set; }
         public DateTime OrderDate { get; set; }
 
